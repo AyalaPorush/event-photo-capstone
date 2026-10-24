@@ -1,15 +1,20 @@
-node --version:
+# Run Log
+
+* node --version:
 v22.12.0
-npm install:
+
+* npm install:
 עבד בהצלחה!
-npm test:
+
+* npm test:
 5 הבדיקות עברו בהצלחה.
-npm run typecheck:
+
+* npm run typecheck:
 
 > event-photo-capstone@0.1.0 typecheck
 > tsc --noEmit
 
-npm run dev:
+* npm run dev:
 
 > event-photo-capstone@0.1.0 dev
 > tsx watch src/server.ts
